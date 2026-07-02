@@ -3,7 +3,7 @@
 
  <p align="center"> 
 
-  <img width="156" height="180" alt="Image" src="https://github.com/user-attachments/assets/f5456438-b3af-4bfd-b122-438cb643a379" />
+  <img width="156" height="180" alt="Image" src="https://i.postimg.cc/Kz75MzYC/Screenshot-2026-07-02-2-44-03-PM-removebg-preview.png" />
 
   <p align="center"> 
 $\color{red}{· · ─── ꒰ঌ·✦·໒꒱ ─── · ·}$
